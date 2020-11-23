@@ -57,8 +57,6 @@ function copyColor() {
 // }
 
 
-
-
 // https://blog.jayantsingh.in/2018/01/22/howto-generate-random-color-values-in-javascript/
 // function getRandomColorHex() {
 //     const colorLetters = '0123456789ABCDEF';
